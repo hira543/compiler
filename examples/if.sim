@@ -1,0 +1,5 @@
+nyarn:i64 = 30;
+yarn:i64 = 20;
+
+if (nyarn < yarn) { print(yarn); }
+else { print(nyarn); }

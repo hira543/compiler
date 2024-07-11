@@ -1,0 +1,2 @@
+sum:i64 = 10;
+print(sum);

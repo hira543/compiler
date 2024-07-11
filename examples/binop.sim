@@ -1,0 +1,3 @@
+hello:i64 = 10;
+world:i64 = 20;
+print(hello + world);
